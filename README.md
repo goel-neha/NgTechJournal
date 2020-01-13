@@ -11,8 +11,9 @@
 
 > Starter code for the DrivenData's Open AI Caribbean Challenge: Mapping Disaster Risk from Aerial Imagery in MATLAB
 >
->> [at DrivneData Blogs](http://drivendata.co/blog/disaster-response-roof-type-benchmark/)
->> [at MathWorks Medium](https://medium.com/mathworks/open-ai-caribbean-data-science-challenge-e51d627058cd)
+>> [@ DrivneData Blogs](http://drivendata.co/blog/disaster-response-roof-type-benchmark/)
+>
+>> [@ MathWorks Medium](https://medium.com/mathworks/open-ai-caribbean-data-science-challenge-e51d627058cd)
 
 
 
