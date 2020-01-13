@@ -15,6 +15,13 @@
 >
 >> [@ MathWorks Medium](https://medium.com/mathworks/open-ai-caribbean-data-science-challenge-e51d627058cd)
 
+# Programming VEX EDR V5 Smart Motors Using Simulink
+
+> YouTube Video demonstrating the programming options using VEX EDR V5 smart motors. Developed for the particionats of VEX Robotics. 
+>
+>> [Video Link](https://www.mathworks.com/videos/programming-vex-edr-v5-smart-motors-using-simulink-1555931743856.html)
+
+
 
 
 
