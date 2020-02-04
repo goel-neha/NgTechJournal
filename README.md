@@ -21,7 +21,11 @@
 >
 >> [Video Link](https://www.mathworks.com/videos/programming-vex-edr-v5-smart-motors-using-simulink-1555931743856.html)
 
+# How to Preprocess Time Series Data with MATLAB
 
+> YouTube video demonstrating how you can process and clean time series MATLAB®.
+>
+>> [Video Link](https://www.youtube.com/watch?v=CsqtMGDnMBw&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr&index=15)
 
 
 
