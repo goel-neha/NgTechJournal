@@ -3,7 +3,7 @@
 
 > This is my first blog. In this blog I talk about a high level overview about resources provided in MATLAB and Simulink for developing AI component in your projects. The post ends with me introducing myself and my work with the MathWorks student competitions team. 
 >
->> [@ MathWorks Medium](https://blogs.mathworks.com/racing-lounge/2019/05/29/deep-learning-for-student-competitions/)
+>> [@ MathWorks channel](https://blogs.mathworks.com/racing-lounge/2019/05/29/deep-learning-for-student-competitions/)
 
 # Benchmark Code for Open AI Caribbean Data Science Challenge
 
