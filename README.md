@@ -38,13 +38,13 @@
 >> [@ MathWorks channel](https://blogs.mathworks.com/racing-lounge/2020/01/17/matlab-benchmark-code-for-wids-datathon-2020/)
 
 # Blog on: YOLOv2 Object Detection from ONNX Model
->
+
 >>How I imported Tiny YOLOv2 ONNX model in MATLAB and re-trained the network to detect objects on custom data set
 >
 >> [Blog Link](https://towardsdatascience.com/yolov2-object-detection-from-onnx-model-in-matlab-3bb25568aa15)
 
 # Video Series: Deep Learning for Object Detection
->
+
 >> Video Series of 4 video demonstrating the complete workflow from Data Processing to Deployment
 >
 >> [Video 1: Data Pre-Processing for Deep Learning](https://www.youtube.com/watch?v=g_Vj1ASBcYo&list=PLn8PRpmsu08oLufaYWEvcuez8Rq7q4O7D&index=44)
