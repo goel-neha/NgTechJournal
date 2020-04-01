@@ -3,7 +3,7 @@
 
 > This is my first blog. In this blog I talk about a high level overview about resources provided in MATLAB and Simulink for developing AI component in your projects. The post ends with me introducing myself and my work with the MathWorks student competitions team. 
 >
->> [Blog Link](https://blogs.mathworks.com/racing-lounge/2019/05/29/deep-learning-for-student-competitions/)
+>> [@ MathWorks Medium](https://blogs.mathworks.com/racing-lounge/2019/05/29/deep-learning-for-student-competitions/)
 
 # Benchmark Code for Open AI Caribbean Data Science Challenge
 
@@ -39,7 +39,7 @@
 
 > How I imported Tiny YOLOv2 ONNX model in MATLAB and re-trained the network to detect objects on custom data set
 >
->> [Blog Link](https://towardsdatascience.com/yolov2-object-detection-from-onnx-model-in-matlab-3bb25568aa15)
+>> [@ TowardDataScience Medium](https://towardsdatascience.com/yolov2-object-detection-from-onnx-model-in-matlab-3bb25568aa15)
 
 # Video Series: Deep Learning for Object Detection
 
