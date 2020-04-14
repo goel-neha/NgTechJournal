@@ -7,7 +7,7 @@
 
 # Video Series: Deep Learning for Object Detection
 
-> Video Series of 4 video demonstrating the complete workflow from Data Processing to Deployment
+> Video Series of 4 videos demonstrating the complete workflow of object detection from Data Labelling to NVIDIA Jetson Deployment with YOLOv2 network
 >
 >> [Video 1: Data Pre-Processing for Deep Learning](https://www.youtube.com/watch?v=g_Vj1ASBcYo&list=PLn8PRpmsu08oLufaYWEvcuez8Rq7q4O7D&index=44)
 >
