@@ -29,18 +29,6 @@
 >
 >> [GitHub Repo](https://github.com/drivendataorg/openai-caribbean-challenge-benchmark)
 
-# Programming VEX EDR V5 Smart Motors Using Simulink
-
-> YouTube Video demonstrating the programming options using VEX EDR V5 smart motors. Developed for the particionats of VEX Robotics. 
->
->> [Video Link](https://www.mathworks.com/videos/programming-vex-edr-v5-smart-motors-using-simulink-1555931743856.html)
-
-# How to Preprocess Time Series Data with MATLAB
-
-> YouTube video demonstrating how you can process and clean time series MATLAB®.
->
->> [Video Link](https://www.youtube.com/watch?v=CsqtMGDnMBw&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr&index=15)
-
 # Blog for Women in Data Science Datathon 2020
 
 > As a member of WiDS Datathon 2020 committee, I developed a starter resources kit to solve the machine laerning task using MATLAB
@@ -54,6 +42,20 @@
 > How I imported Tiny YOLOv2 ONNX model in MATLAB and re-trained the network to detect objects on custom data set
 >
 >> [@ TowardDataScience Medium](https://towardsdatascience.com/yolov2-object-detection-from-onnx-model-in-matlab-3bb25568aa15)
+
+# Programming VEX EDR V5 Smart Motors Using Simulink
+
+> YouTube Video demonstrating the programming options using VEX EDR V5 smart motors. Developed for the particionats of VEX Robotics. 
+>
+>> [Video Link](https://www.mathworks.com/videos/programming-vex-edr-v5-smart-motors-using-simulink-1555931743856.html)
+
+# How to Preprocess Time Series Data with MATLAB
+
+> YouTube video demonstrating how you can process and clean time series MATLAB®.
+>
+>> [Video Link](https://www.youtube.com/watch?v=CsqtMGDnMBw&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr&index=15)
+
+
 
 
 
