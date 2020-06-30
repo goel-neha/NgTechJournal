@@ -47,7 +47,7 @@
 
 > Starter code for the DrivenData's Clog Loss: Advance Alzheimer’s Research with Stall Catchers Data Science Challenge in MATLAB. Used CNN + LSTM network for video classification.
 >
->> [@ DrivneData Blogs](https://www.drivendata.co/blog/stall-catchers-alzheimers-benchmark/)
+>> [@ DrivenData Blogs](https://www.drivendata.co/blog/stall-catchers-alzheimers-benchmark/)
 >
 >> [@ MathWorks Medium](https://medium.com/mathworks/advance-alzheimers-research-with-stall-catchers-matlab-benchmark-code-9de651d8c3aa)
 >
@@ -59,7 +59,7 @@
 
 > A blog that discussed about different methods of Video Classification and provides resources how you can implement them in MATLAB.
 >>
-> [@ Towards DataScience Medium] (https://towardsdatascience.com/are-you-ready-for-a-video-classification-challenge-d044e3b202b6)
+> [@ Towards DataScience Medium](https://towardsdatascience.com/are-you-ready-for-a-video-classification-challenge-d044e3b202b6)
 
 # Programming VEX EDR V5 Smart Motors Using Simulink
 
