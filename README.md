@@ -43,6 +43,24 @@
 >
 >> [@ TowardDataScience Medium](https://towardsdatascience.com/yolov2-object-detection-from-onnx-model-in-matlab-3bb25568aa15)
 
+# Benchmark Code for Advance Alzheimer's Data Science Challenge
+
+> Starter code for the DrivenData's Clog Loss: Advance Alzheimer’s Research with Stall Catchers Data Science Challenge in MATLAB. Used CNN + LSTM network for video classification.
+>
+>> [@ DrivneData Blogs](https://www.drivendata.co/blog/stall-catchers-alzheimers-benchmark/)
+>
+>> [@ MathWorks Medium](https://medium.com/mathworks/advance-alzheimers-research-with-stall-catchers-matlab-benchmark-code-9de651d8c3aa)
+>
+>> [@ MathWorks Racing Lounge](https://blogs.mathworks.com/racing-lounge/2020/05/20/advance-alzheimers-research-with-stall-catchers-matlab-benchmark-code/)
+>
+>> [GitHub Repo](https://github.com/drivendataorg/clog-loss-stall-catchers-benchmark)
+
+# Blog on 5 methods of Video Classification using MATLAB
+
+> A blog that discussed about different methods of Video Classification and provides resources how you can implement them in MATLAB.
+>>
+> [@ Towards DataScience Medium] (https://towardsdatascience.com/are-you-ready-for-a-video-classification-challenge-d044e3b202b6)
+
 # Programming VEX EDR V5 Smart Motors Using Simulink
 
 > YouTube Video demonstrating the programming options using VEX EDR V5 smart motors. Developed for the particionats of VEX Robotics. 
