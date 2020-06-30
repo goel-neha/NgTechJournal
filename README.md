@@ -29,19 +29,13 @@
 >
 >> [GitHub Repo](https://github.com/drivendataorg/openai-caribbean-challenge-benchmark)
 
-# Blog for Women in Data Science Datathon 2020
+# Benchmark Code for Women in Data Science Datathon 2020
 
 > As a member of WiDS Datathon 2020 committee, I developed a starter resources kit to solve the machine laerning task using MATLAB
 >
 >> [@ Medium](https://medium.com/mathworks/matlab-benchmark-code-for-wids-datathon-2020-7779d6d4a856)
 >
 >> [@ MathWorks channel](https://blogs.mathworks.com/racing-lounge/2020/01/17/matlab-benchmark-code-for-wids-datathon-2020/)
-
-# Blog on: YOLOv2 Object Detection from ONNX Model
-
-> How I imported Tiny YOLOv2 ONNX model in MATLAB and re-trained the network to detect objects on custom data set
->
->> [@ Towards DataScience Medium](https://towardsdatascience.com/yolov2-object-detection-from-onnx-model-in-matlab-3bb25568aa15)
 
 # Benchmark Code for Advance Alzheimer's Data Science Challenge
 
@@ -54,6 +48,12 @@
 >> [@ MathWorks Racing Lounge](https://blogs.mathworks.com/racing-lounge/2020/05/20/advance-alzheimers-research-with-stall-catchers-matlab-benchmark-code/)
 >
 >> [GitHub Repo](https://github.com/drivendataorg/clog-loss-stall-catchers-benchmark)
+
+# Blog on YOLOv2 Object Detection from ONNX Model
+
+> How I imported Tiny YOLOv2 ONNX model in MATLAB and re-trained the network to detect objects on custom data set
+>
+>> [@ Towards DataScience Medium](https://towardsdatascience.com/yolov2-object-detection-from-onnx-model-in-matlab-3bb25568aa15)
 
 # Blog on 5 methods of Video Classification using MATLAB
 
