@@ -41,7 +41,7 @@
 
 > How I imported Tiny YOLOv2 ONNX model in MATLAB and re-trained the network to detect objects on custom data set
 >
->> [@ TowardDataScience Medium](https://towardsdatascience.com/yolov2-object-detection-from-onnx-model-in-matlab-3bb25568aa15)
+>> [@ Towards DataScience Medium](https://towardsdatascience.com/yolov2-object-detection-from-onnx-model-in-matlab-3bb25568aa15)
 
 # Benchmark Code for Advance Alzheimer's Data Science Challenge
 
@@ -61,17 +61,23 @@
 >>
 > [@ Towards DataScience Medium](https://towardsdatascience.com/are-you-ready-for-a-video-classification-challenge-d044e3b202b6)
 
-# Programming VEX EDR V5 Smart Motors Using Simulink
-
-> YouTube Video demonstrating the programming options using VEX EDR V5 smart motors. Developed for the particionats of VEX Robotics. 
->
->> [Video Link](https://www.mathworks.com/videos/programming-vex-edr-v5-smart-motors-using-simulink-1555931743856.html)
-
 # How to Preprocess Time Series Data with MATLAB
 
 > YouTube video demonstrating how you can process and clean time series MATLAB®.
 >
 >> [Video Link](https://www.youtube.com/watch?v=CsqtMGDnMBw&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr&index=15)
+
+# How to Implement Object-Oriented Programming Principles in MATLAB
+
+> YouTube video demonstrating how you can implement 4 object oriented programming principles in MATLAB®.
+>
+>> [Video Link](https://www.youtube.com/watch?v=kz4zYECb8AA&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr&index=22)
+
+# Programming VEX EDR V5 Smart Motors Using Simulink
+
+> YouTube Video demonstrating the programming options using VEX EDR V5 smart motors. Developed for the particionats of VEX Robotics. 
+>
+>> [Video Link](https://www.mathworks.com/videos/programming-vex-edr-v5-smart-motors-using-simulink-1555931743856.html)
 
 
 
