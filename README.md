@@ -55,7 +55,7 @@
 >
 >> [@ Towards DataScience Medium](https://towardsdatascience.com/yolov2-object-detection-from-onnx-model-in-matlab-3bb25568aa15)
 
-# Blog on 5 methods of Video Classification using MATLAB
+# Blog on 5 methods of Video Classification
 
 > A blog that discussed about different methods of Video Classification and provides resources how you can implement them in MATLAB.
 >>
