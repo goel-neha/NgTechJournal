@@ -65,9 +65,12 @@
 >> [@ MathWorks Channel - 2021](https://blogs.mathworks.com/racing-lounge/2021/01/08/matlab-benchmark-code-for-wids-datathon-2021/)
 >
 >> [@ Medium - 2021](https://medium.com/mathworks/matlab-benchmark-code-for-wids-datathon-2021-b445e8c0e3f2)
->
->> [Data preparation for WiDS Datathon using MATLAB](https://towardsdatascience.com/data-preparation-for-wids-datathon-using-matlab-d7e4d09ef78b)
 
+# Data preparation for WiDS Datathon using MATLAB
+
+> A resource guide to analyze and process data using WiDS 2021 dataset as example
+> 
+>> [@ Towards DataScience Medium]((https://towardsdatascience.com/data-preparation-for-wids-datathon-using-matlab-d7e4d09ef78b)
 
 # How to Preprocess Time Series Data with MATLAB
 
