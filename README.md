@@ -19,23 +19,21 @@
 >
 >>[GitHub Repo](https://github.com/mathworks-robotics/deep-learning-for-object-detection-yolov2)
 
+# Blog on YOLOv2 Object Detection from ONNX Model
+
+> How I imported Tiny YOLOv2 ONNX model in MATLAB and re-trained the network to detect objects on custom data set
+>
+>> [@ Towards DataScience Medium](https://towardsdatascience.com/yolov2-object-detection-from-onnx-model-in-matlab-3bb25568aa15)
+
 # Benchmark Code for Open AI Caribbean Data Science Challenge
 
-> Starter code for the DrivenData's Open AI Caribbean Challenge: Mapping Disaster Risk from Aerial Imagery in MATLAB. Used BigImage and Depp Learning techniques to classify the roof types from aerial images of Caribbean cities.
+> Starter code for the DrivenData's Open AI Caribbean Challenge: Mapping Disaster Risk from Aerial Imagery in MATLAB. Used BigImage and Deep Learning techniques to classify the roof types from aerial images of Caribbean cities.
 >
 >> [@ DrivneData Blogs](http://drivendata.co/blog/disaster-response-roof-type-benchmark/)
 >
 >> [@ MathWorks Medium](https://medium.com/mathworks/open-ai-caribbean-data-science-challenge-e51d627058cd)
 >
 >> [GitHub Repo](https://github.com/drivendataorg/openai-caribbean-challenge-benchmark)
-
-# Benchmark Code for Women in Data Science Datathon 2020
-
-> As a member of WiDS Datathon 2020 committee, I developed a starter resources kit to solve the machine laerning task using MATLAB
->
->> [@ Medium](https://medium.com/mathworks/matlab-benchmark-code-for-wids-datathon-2020-7779d6d4a856)
->
->> [@ MathWorks channel](https://blogs.mathworks.com/racing-lounge/2020/01/17/matlab-benchmark-code-for-wids-datathon-2020/)
 
 # Benchmark Code for Advance Alzheimer's Data Science Challenge
 
@@ -49,17 +47,27 @@
 >
 >> [GitHub Repo](https://github.com/drivendataorg/clog-loss-stall-catchers-benchmark)
 
-# Blog on YOLOv2 Object Detection from ONNX Model
-
-> How I imported Tiny YOLOv2 ONNX model in MATLAB and re-trained the network to detect objects on custom data set
->
->> [@ Towards DataScience Medium](https://towardsdatascience.com/yolov2-object-detection-from-onnx-model-in-matlab-3bb25568aa15)
 
 # Blog on 5 methods of Video Classification
 
 > A blog that discussed about different methods of Video Classification and provides resources how you can implement them in MATLAB.
 >>
 > [@ Towards DataScience Medium](https://towardsdatascience.com/are-you-ready-for-a-video-classification-challenge-d044e3b202b6)
+
+# Women in Data Science Datathon 2020 - 2021
+
+> As a member of WiDS Datathon 2020-21 committee, I develop various starter resources kit to solve the machine laerning task using MATLAB
+>
+>> [@ Medium - 2020](https://medium.com/mathworks/matlab-benchmark-code-for-wids-datathon-2020-7779d6d4a856)
+>
+>> [@ MathWorks channel - 2020](https://blogs.mathworks.com/racing-lounge/2020/01/17/matlab-benchmark-code-for-wids-datathon-2020/)
+>
+>> [@ MathWorks Channel - 2021] (https://blogs.mathworks.com/racing-lounge/2021/01/08/matlab-benchmark-code-for-wids-datathon-2021/)
+>
+>> [@Medium - 2021] (https://medium.com/mathworks/matlab-benchmark-code-for-wids-datathon-2021-b445e8c0e3f2)
+>
+>> [Data preparation for WiDS Datathon using MATLAB] (https://towardsdatascience.com/data-preparation-for-wids-datathon-using-matlab-d7e4d09ef78b)
+
 
 # How to Preprocess Time Series Data with MATLAB
 
