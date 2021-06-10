@@ -70,7 +70,7 @@
 
 > A resource guide to analyze and process data using WiDS 2021 dataset as example
 > 
->> [@ Towards DataScience Medium]((https://towardsdatascience.com/data-preparation-for-wids-datathon-using-matlab-d7e4d09ef78b)
+>> [@ Towards DataScience Medium](https://towardsdatascience.com/data-preparation-for-wids-datathon-using-matlab-d7e4d09ef78b)
 
 # How to Preprocess Time Series Data with MATLAB
 
